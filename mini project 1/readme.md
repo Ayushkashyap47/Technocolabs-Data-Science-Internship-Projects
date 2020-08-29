@@ -1,4 +1,4 @@
 # **Mini project 1**
 
 
-## Dr. Ignaz Semmelweis Hand Washing Theory
+## Dr. Ignaz Semmelweis's Hand Washing Theory
