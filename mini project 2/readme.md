@@ -7,3 +7,4 @@
 ### 4: Fitting_a_Logistic_Regression_Model
 ### 5: Cross-Validation_and_Feature_Engineering
 ### 6: Cross-Validation_Grid_Search_with_Random_Forest
+### 7: Deriving_Financial_Insights
